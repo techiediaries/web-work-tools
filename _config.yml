@@ -24,7 +24,7 @@ author: infominer
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://web-work.tools'
+url: 'https://techiediaries.github.io/web-work-tools/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/web-work-tools/web-work-tools.github.io/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://web-work.tools/images/'
+urlimg: 'https://techiediaries.github.io/web-work-tools/images/'
 
 
 # Logo size is 600x80 pixels
